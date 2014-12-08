@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1b7107-0528-45aa-8081-2f8f681c23fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/python-training.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInput.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-training.iws" />
@@ -62,11 +57,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="escapeCharacters.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="escapeCharacters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23214285" vertical-offset="0" max-vertical-offset="672">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="printByInput.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInput.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44494048" vertical-offset="0" max-vertical-offset="672">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -91,6 +96,7 @@
         <option value="$PROJECT_DIR$/learn-python/ex08_print_format/printFormat.py" />
         <option value="$PROJECT_DIR$/learn-python/ex09_linebreak/linebreak.py" />
         <option value="$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInput.py" />
       </list>
     </option>
   </component>
@@ -160,6 +166,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex11_print_by_input" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,7 +383,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.escapeCharacters">
+  <component name="RunManager" selected="Python.printByInput">
     <configuration default="false" name="printVariables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,25 +397,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-training" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="printJoinString" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex07_more_printing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -449,6 +454,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-training" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="printByInput" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex11_print_by_input" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-training" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -579,18 +603,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.printVariables" />
-      <item index="1" class="java.lang.String" itemvalue="Python.printJoinString" />
-      <item index="2" class="java.lang.String" itemvalue="Python.printFormat" />
-      <item index="3" class="java.lang.String" itemvalue="Python.linebreak" />
-      <item index="4" class="java.lang.String" itemvalue="Python.escapeCharacters" />
+      <item index="1" class="java.lang.String" itemvalue="Python.printFormat" />
+      <item index="2" class="java.lang.String" itemvalue="Python.linebreak" />
+      <item index="3" class="java.lang.String" itemvalue="Python.escapeCharacters" />
+      <item index="4" class="java.lang.String" itemvalue="Python.printByInput" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.escapeCharacters" />
-        <item index="1" class="java.lang.String" itemvalue="Python.linebreak" />
-        <item index="2" class="java.lang.String" itemvalue="Python.printFormat" />
-        <item index="3" class="java.lang.String" itemvalue="Python.printVariables" />
-        <item index="4" class="java.lang.String" itemvalue="Python.printJoinString" />
+        <item index="0" class="java.lang.String" itemvalue="Python.printByInput" />
+        <item index="1" class="java.lang.String" itemvalue="Python.escapeCharacters" />
+        <item index="2" class="java.lang.String" itemvalue="Python.linebreak" />
+        <item index="3" class="java.lang.String" itemvalue="Python.printFormat" />
+        <item index="4" class="java.lang.String" itemvalue="Python.printVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -769,8 +793,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23214285" vertical-offset="0" max-vertical-offset="672">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44494048" vertical-offset="0" max-vertical-offset="672">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding />
         </state>
       </provider>
