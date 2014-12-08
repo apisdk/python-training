@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1b7107-0528-45aa-8081-2f8f681c23fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-training.iws" />
@@ -27,11 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="argumentTest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="argumentTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="377">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="argumentAndInput.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.4074627" vertical-offset="0" max-vertical-offset="670">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -59,12 +69,13 @@
         <option value="$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInput.py" />
         <option value="$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInputWithMessage.py" />
         <option value="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="198" />
-    <option name="y" value="132" />
+    <option name="x" value="386" />
+    <option name="y" value="350" />
     <option name="width" value="1555" />
     <option name="height" value="1153" />
   </component>
@@ -128,6 +139,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex14_prompting_passing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,26 +393,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.argumentTest (1)">
-    <configuration default="false" name="escapeCharacters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex10_escape_character" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.argumentAndInput">
     <configuration default="false" name="printByInput" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -455,6 +465,25 @@
       <module name="python-training" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py" />
       <option name="PARAMETERS" value="first second third" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="argumentAndInput" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex14_prompting_passing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-training" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py" />
+      <option name="PARAMETERS" value="Tony" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
@@ -583,19 +612,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.escapeCharacters" />
-      <item index="1" class="java.lang.String" itemvalue="Python.printByInput" />
-      <item index="2" class="java.lang.String" itemvalue="Python.printByInputWithMessage" />
-      <item index="3" class="java.lang.String" itemvalue="Python.argumentTest" />
-      <item index="4" class="java.lang.String" itemvalue="Python.argumentTest (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.printByInput" />
+      <item index="1" class="java.lang.String" itemvalue="Python.printByInputWithMessage" />
+      <item index="2" class="java.lang.String" itemvalue="Python.argumentTest" />
+      <item index="3" class="java.lang.String" itemvalue="Python.argumentTest (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.argumentAndInput" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.argumentTest (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.argumentTest" />
-        <item index="2" class="java.lang.String" itemvalue="Python.printByInputWithMessage" />
-        <item index="3" class="java.lang.String" itemvalue="Python.printByInput" />
-        <item index="4" class="java.lang.String" itemvalue="Python.escapeCharacters" />
+        <item index="0" class="java.lang.String" itemvalue="Python.argumentAndInput" />
+        <item index="1" class="java.lang.String" itemvalue="Python.argumentTest (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.argumentTest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.printByInputWithMessage" />
+        <item index="4" class="java.lang.String" itemvalue="Python.printByInput" />
       </list>
     </recent_temporary>
   </component>
@@ -613,8 +642,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="198" y="132" width="1555" height="1153" extended-state="0" />
-    <editor active="true" />
+    <frame x="386" y="350" width="1555" height="1153" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -622,7 +651,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24945612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22816166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34213006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34213006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -807,8 +836,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="377">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4074627" vertical-offset="0" max-vertical-offset="670">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding />
         </state>
       </provider>
