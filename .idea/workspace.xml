@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1b7107-0528-45aa-8081-2f8f681c23fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" afterPath="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -28,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="printStrings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py">
+      <file leaf-file-name="printVariables.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3880597" vertical-offset="0" max-vertical-offset="670">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.36865672" vertical-offset="0" max-vertical-offset="670">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,14 +51,15 @@
         <option value="$PROJECT_DIR$/learn-python/ex03/NumberAndMath.py" />
         <option value="$PROJECT_DIR$/learn-python/ex04/variables.py" />
         <option value="$PROJECT_DIR$/learn-python/ex05_string/printString.py" />
-        <option value="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" />
         <option value="$PROJECT_DIR$/learn-python/ex06_String_and_Text/printStrings.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="477" />
-    <option name="y" value="65" />
+    <option name="x" value="710" />
+    <option name="y" value="259" />
     <option name="width" value="1555" />
     <option name="height" value="1153" />
   </component>
@@ -108,6 +109,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex07_more_printing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,26 +268,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.printStrings">
-    <configuration default="false" name="NumberAndMath" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex03/NumberAndMath.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.printVariables">
     <configuration default="false" name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,6 +345,25 @@
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="printJoinString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex07_more_printing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-training" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
@@ -470,19 +489,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.NumberAndMath" />
-      <item index="1" class="java.lang.String" itemvalue="Python.variables" />
-      <item index="2" class="java.lang.String" itemvalue="Python.printString" />
-      <item index="3" class="java.lang.String" itemvalue="Python.printVariables" />
-      <item index="4" class="java.lang.String" itemvalue="Python.printStrings" />
+      <item index="0" class="java.lang.String" itemvalue="Python.variables" />
+      <item index="1" class="java.lang.String" itemvalue="Python.printString" />
+      <item index="2" class="java.lang.String" itemvalue="Python.printVariables" />
+      <item index="3" class="java.lang.String" itemvalue="Python.printStrings" />
+      <item index="4" class="java.lang.String" itemvalue="Python.printJoinString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.printStrings" />
-        <item index="1" class="java.lang.String" itemvalue="Python.printString" />
-        <item index="2" class="java.lang.String" itemvalue="Python.printVariables" />
-        <item index="3" class="java.lang.String" itemvalue="Python.variables" />
-        <item index="4" class="java.lang.String" itemvalue="Python.NumberAndMath" />
+        <item index="0" class="java.lang.String" itemvalue="Python.printVariables" />
+        <item index="1" class="java.lang.String" itemvalue="Python.printJoinString" />
+        <item index="2" class="java.lang.String" itemvalue="Python.printStrings" />
+        <item index="3" class="java.lang.String" itemvalue="Python.printString" />
+        <item index="4" class="java.lang.String" itemvalue="Python.variables" />
       </list>
     </recent_temporary>
   </component>
@@ -500,15 +519,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="477" y="65" width="1555" height="1153" extended-state="0" />
-    <editor active="false" />
+    <frame x="710" y="259" width="1555" height="1153" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24945612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22816166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22816166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34213006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -594,18 +613,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py">
+    <entry file="file://$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="338">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py">
+    <entry file="file://$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3880597" vertical-offset="0" max-vertical-offset="670">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36865672" vertical-offset="0" max-vertical-offset="670">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
