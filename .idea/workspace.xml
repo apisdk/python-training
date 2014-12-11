@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1b7107-0528-45aa-8081-2f8f681c23fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python-training.iml" afterPath="$PROJECT_DIR$/.idea/python-training.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex15_readFile/readFileWithArgument.py" afterPath="$PROJECT_DIR$/learn-python/ex15_readFile/readFileWithArgument.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex02_comment/Comments.py" afterPath="$PROJECT_DIR$/learn-python/ex02_comment/Comments.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex01_helloWorld/HelloWorld.py" afterPath="$PROJECT_DIR$/learn-python/ex01_helloWorld/HelloWorld.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex03_number/NumberAndMath.py" afterPath="$PROJECT_DIR$/learn-python/ex03_number/NumberAndMath.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py" afterPath="$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py" afterPath="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py" afterPath="$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex09_linebreak/linebreak.py" afterPath="$PROJECT_DIR$/learn-python/ex09_linebreak/linebreak.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInput.py" afterPath="$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInput.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInputWithMessage.py" afterPath="$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInputWithMessage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex08_print_format/printFormat.py" afterPath="$PROJECT_DIR$/learn-python/ex08_print_format/printFormat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py" afterPath="$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py" afterPath="$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" afterPath="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-python/ex04_variable/variables.py" afterPath="$PROJECT_DIR$/learn-python/ex04_variable/variables.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-training.iws" />
@@ -29,11 +40,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readFileWithArgument.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn-python/ex15_readFile/readFileWithArgument.py">
+      <file leaf-file-name="Comments.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-python/ex02_comment/Comments.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19005848" vertical-offset="0" max-vertical-offset="684">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorld.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-python/ex01_helloWorld/HelloWorld.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+              <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -53,23 +74,30 @@
         <option value="$PROJECT_DIR$/learn-python/ex04/variables.py" />
         <option value="$PROJECT_DIR$/learn-python/ex05_string/printString.py" />
         <option value="$PROJECT_DIR$/learn-python/ex06_String_and_Text/printStrings.py" />
-        <option value="$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py" />
-        <option value="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" />
-        <option value="$PROJECT_DIR$/learn-python/ex08_print_format/printFormat.py" />
-        <option value="$PROJECT_DIR$/learn-python/ex09_linebreak/linebreak.py" />
-        <option value="$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py" />
         <option value="$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInput.py" />
         <option value="$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInputWithMessage.py" />
-        <option value="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py" />
-        <option value="$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py" />
         <option value="$PROJECT_DIR$/learn-python/ex15_readFile/readSample.txt" />
         <option value="$PROJECT_DIR$/learn-python/ex15_readFile/readFileWithArgument.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInputWithMessage.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInput.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex09_linebreak/linebreak.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex08_print_format/printFormat.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex04_variable/variables.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex03_number/NumberAndMath.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex02_comment/Comments.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex01_helloWorld/HelloWorld.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="236" />
-    <option name="y" value="156" />
+    <option name="x" value="92" />
+    <option name="y" value="176" />
     <option name="width" value="1555" />
     <option name="height" value="1153" />
   </component>
@@ -409,64 +437,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.readFileWithArgument">
-    <configuration default="false" name="printByInputWithMessage" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex11_print_by_input" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex11_print_by_input/printByInputWithMessage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="argumentTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py first second third" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="argumentTest (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py" />
-      <option name="PARAMETERS" value="first second third" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.variables">
     <configuration default="false" name="argumentAndInput" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -483,27 +454,84 @@
       <option name="PARAMETERS" value="Tony" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="readFileWithArgument" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="printByInput" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex15_readFile" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex11_12_print_by_input" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex15_readFile/readFileWithArgument.py" />
-      <option name="PARAMETERS" value="readSample.txt" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInput.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="printJoinString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex07_more_printing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-training" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="printVariables" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex05_print_variable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-training" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex04_variable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-training" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex04_variable/variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -630,19 +658,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.printByInputWithMessage" />
-      <item index="1" class="java.lang.String" itemvalue="Python.argumentTest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.argumentTest (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.argumentAndInput" />
-      <item index="4" class="java.lang.String" itemvalue="Python.readFileWithArgument" />
+      <item index="0" class="java.lang.String" itemvalue="Python.argumentAndInput" />
+      <item index="1" class="java.lang.String" itemvalue="Python.printByInput" />
+      <item index="2" class="java.lang.String" itemvalue="Python.printJoinString" />
+      <item index="3" class="java.lang.String" itemvalue="Python.printVariables" />
+      <item index="4" class="java.lang.String" itemvalue="Python.variables" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.readFileWithArgument" />
-        <item index="1" class="java.lang.String" itemvalue="Python.argumentAndInput" />
-        <item index="2" class="java.lang.String" itemvalue="Python.argumentTest (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.argumentTest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.printByInputWithMessage" />
+        <item index="0" class="java.lang.String" itemvalue="Python.variables" />
+        <item index="1" class="java.lang.String" itemvalue="Python.printVariables" />
+        <item index="2" class="java.lang.String" itemvalue="Python.printJoinString" />
+        <item index="3" class="java.lang.String" itemvalue="Python.printByInput" />
+        <item index="4" class="java.lang.String" itemvalue="Python.argumentAndInput" />
       </list>
     </recent_temporary>
   </component>
@@ -660,7 +688,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="236" y="156" width="1555" height="1153" extended-state="0" />
+    <frame x="92" y="176" width="1555" height="1153" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -806,110 +834,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex02_comment/Comments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex03_number/NumberAndMath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex04_variable/variables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42746615" vertical-offset="0" max-vertical-offset="517">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex01_helloWorld/HelloWorld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028985508" vertical-offset="0" max-vertical-offset="897">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="338">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="325">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex08_print_format/printFormat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex09_linebreak/linebreak.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInputWithMessage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="156">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7671642" vertical-offset="27995" max-vertical-offset="28665">
           <caret line="2197" column="0" selection-start-line="2197" selection-start-column="0" selection-end-line="2197" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="377">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="377">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -937,8 +865,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-python/ex15_readFile/readFileWithArgument.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex14_prompting_passing/argumentAndInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex13_parameter_unpacking_variables/argumentTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="377">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInputWithMessage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="156">
+          <caret line="4" column="82" selection-start-line="4" selection-start-column="82" selection-end-line="4" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex11_12_print_by_input/printByInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex10_escape_character/escapeCharacters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22807017" vertical-offset="0" max-vertical-offset="684">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex09_linebreak/linebreak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22807017" vertical-offset="0" max-vertical-offset="684">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex08_print_format/printFormat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4371345" vertical-offset="0" max-vertical-offset="684">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex07_more_printing/printJoinString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20906433" vertical-offset="0" max-vertical-offset="684">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex05_print_variable/printVariables.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19005848" vertical-offset="0" max-vertical-offset="684">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38011697" vertical-offset="0" max-vertical-offset="684">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex03_number/NumberAndMath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15204678" vertical-offset="0" max-vertical-offset="684">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex04_variable/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17105263" vertical-offset="0" max-vertical-offset="684">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex02_comment/Comments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex01_helloWorld/HelloWorld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding />
         </state>
       </provider>

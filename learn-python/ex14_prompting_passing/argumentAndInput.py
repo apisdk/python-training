@@ -3,21 +3,27 @@ from sys import argv
 script, user_name = argv
 prompt = '> '
 
-print "This script name: %s, user_name= %s" % (script, user_name)
+print("This script name: %s, user_name= %s" % (script, user_name))
 
-print "I'd like to ask you a few questions."
+print("I'd like to ask you a few questions.")
 
-print "Do you like me? %s" % user_name
-likes = raw_input(prompt)
+print("Do you like me? %s" % user_name)
+likes = input(prompt)
 
-print "Where do you live %s?" % user_name
-lives = raw_input(prompt)
+print("Where do you live %s?" % user_name)
+lives = input(prompt)
 
-print "What kind of computer do you have?"
-computer = raw_input(prompt)
+print("What kind of computer do you have?")
+computer = input(prompt)
 
-print """
+print("""
 Alright, so you said %r about liking me
 You live in %r. Not sure where that is.
 And you have a %r computer. Nice.
-""" % (likes, lives, computer)
+""" % (likes, lives, computer))
+
+print("""
+Alright, so you said %r about liking me
+You live in %r. Not sure where that is.
+And you have a %r computer. Nice.
+""" % (likes, lives, computer))
