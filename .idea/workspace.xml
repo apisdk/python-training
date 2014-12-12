@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1b7107-0528-45aa-8081-2f8f681c23fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-python/ex16_ReadingAndWritingFiles/writeFileWithArgument.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-python/ex17_moreFiles/fromFile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-python/ex17_moreFiles/writeFileWithFileName.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-training.iws" />
@@ -27,21 +28,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readFileWithArgument.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-python/ex15_readFile/readFileWithArgument.py">
+      <file leaf-file-name="writeFileWithFileName.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-python/ex17_moreFiles/writeFileWithFileName.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="writeSample.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-python/ex16_ReadingAndWritingFiles/writeSample.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="117">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="writeFileWithArgument.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="toFile.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-python/ex17_moreFiles/toFile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="91">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="writeFileWithArgument.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-python/ex16_ReadingAndWritingFiles/writeFileWithArgument.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2850877" vertical-offset="0" max-vertical-offset="684">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fromFile.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-python/ex17_moreFiles/fromFile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -80,11 +113,14 @@
         <option value="$PROJECT_DIR$/learn-python/ex02_comment/Comments.py" />
         <option value="$PROJECT_DIR$/learn-python/ex01_helloWorld/HelloWorld.py" />
         <option value="$PROJECT_DIR$/learn-python/ex16_ReadingAndWritingFiles/writeFileWithArgument.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex17_moreFiles/toFile.txt" />
+        <option value="$PROJECT_DIR$/learn-python/ex17_moreFiles/writeFileWithFileName.py" />
+        <option value="$PROJECT_DIR$/learn-python/ex17_moreFiles/fromFile.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="92" />
+    <option name="x" value="88" />
     <option name="y" value="176" />
     <option name="width" value="1555" />
     <option name="height" value="1153" />
@@ -135,6 +171,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex17_moreFiles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,26 +497,12 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.writeFileWithArgument">
-    <configuration default="false" name="printStrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex06_print_string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex06_print_string/printStrings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learn-python/ex17_moreFiles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.writeFileWithFileName">
     <configuration default="false" name="printJoinString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -535,7 +575,30 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex16_ReadingAndWritingFiles/writeFileWithArgument.py" />
       <option name="PARAMETERS" value="writeSample.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="writeFileWithFileName" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python/ex17_moreFiles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-training" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python/ex17_moreFiles/writeFileWithFileName.py" />
+      <option name="PARAMETERS" value="fromFile.txt toFile.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -662,19 +725,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.printStrings" />
-      <item index="1" class="java.lang.String" itemvalue="Python.printJoinString" />
-      <item index="2" class="java.lang.String" itemvalue="Python.printFormat" />
-      <item index="3" class="java.lang.String" itemvalue="Python.readFileWithArgument" />
-      <item index="4" class="java.lang.String" itemvalue="Python.writeFileWithArgument" />
+      <item index="0" class="java.lang.String" itemvalue="Python.printJoinString" />
+      <item index="1" class="java.lang.String" itemvalue="Python.printFormat" />
+      <item index="2" class="java.lang.String" itemvalue="Python.readFileWithArgument" />
+      <item index="3" class="java.lang.String" itemvalue="Python.writeFileWithArgument" />
+      <item index="4" class="java.lang.String" itemvalue="Python.writeFileWithFileName" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.writeFileWithArgument" />
-        <item index="1" class="java.lang.String" itemvalue="Python.readFileWithArgument" />
-        <item index="2" class="java.lang.String" itemvalue="Python.printFormat" />
-        <item index="3" class="java.lang.String" itemvalue="Python.printJoinString" />
-        <item index="4" class="java.lang.String" itemvalue="Python.printStrings" />
+        <item index="0" class="java.lang.String" itemvalue="Python.writeFileWithFileName" />
+        <item index="1" class="java.lang.String" itemvalue="Python.writeFileWithArgument" />
+        <item index="2" class="java.lang.String" itemvalue="Python.readFileWithArgument" />
+        <item index="3" class="java.lang.String" itemvalue="Python.printFormat" />
+        <item index="4" class="java.lang.String" itemvalue="Python.printJoinString" />
       </list>
     </recent_temporary>
   </component>
@@ -692,7 +755,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="176" width="1555" height="1153" extended-state="0" />
+    <frame x="88" y="176" width="1555" height="1153" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -705,7 +768,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24945612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22816166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22816166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987747" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -979,18 +1042,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-730671433/_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13880597" vertical-offset="17600" max-vertical-offset="19799">
+          <caret line="1361" column="0" selection-start-line="1361" selection-start-column="0" selection-end-line="1361" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn-python/ex15_readFile/readFileWithArgument.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.2222223" vertical-offset="0" max-vertical-offset="286">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-python/ex16_ReadingAndWritingFiles/writeFileWithArgument.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2850877" vertical-offset="0" max-vertical-offset="684">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex17_moreFiles/writeFileWithFileName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex16_ReadingAndWritingFiles/writeSample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="117">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex17_moreFiles/toFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="91">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-python/ex17_moreFiles/fromFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
