@@ -29,3 +29,11 @@ print("%s isSweet=%s" % (Food.apple, result))
 result = isSweet(Food.orange)
 print("%s isSweet=%s" % (Food.orange, result))
 
+apple = Food.apple
+print("%r" % apple)
+print(repr(apple))
+print(type(apple))
+
+print("apple is instance of Food = %s" % isinstance(apple, Food))
+
+print("print item name = %s" % apple.name)
